@@ -1,0 +1,14 @@
+{
+  "name": "dessign-patterns",
+  "version": "1.0.0",
+  "description": "examples for dannielwhatever.github.io articles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"success!! <3\""
+  },
+  "author": "dannielwhatever",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
